@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70) <br><br><br>
-안녕하세요, 앱개발자 안명성입니다.
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=100&section=header&text=Wellcome%20to%20my%20Git!&fontSize=40) <br><br><br>
+Im, MyeongSeongAn
 
 - Email : AnMyeongSeong94@gmail.com
 
